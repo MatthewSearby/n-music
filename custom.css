@@ -1,0 +1,69 @@
+#fifth{
+	background-color: #FFFF05;
+}
+
+h1{ text-align: center;
+	font-size: 250%;
+	font-family: serif;
+	font-style: oblique;
+}
+
+h10{ color: blue;
+	font-size:120%;
+	font-family: Helvetica;
+	text-align: right
+
+}
+
+#first{
+Background-color: #100;
+color: Blue;
+background-repeat: no-repeat;
+padding-top: 10px;
+}
+
+#second{
+	background-color: blue;
+	color: Yellow;
+	background-repeat: no-repeat;
+	padding-top: 20px;
+}
+
+#third{
+	background-color: white;
+	color: #100;
+	background-repeat: no-repeat;
+	padding-top: 10px;
+}
+
+#fourth{
+	background-color: black;
+	color: yellow;
+	padding-top:10px;
+}
+
+h2{
+	text-align: center;
+	font size:150%;
+	font font-family: georgia;
+}
+
+h5{
+	text-align: center;
+	font-size:250%;
+	color: White;
+}
+	
+
+h6{
+	text-align: center;
+	font-size: 250%;
+	font-family: serif;
+	font-style: oblique;
+}
+
+#sixth{
+	padding-top: 20px;
+	text-align: center;
+	background-color: #DAA520;
+}
